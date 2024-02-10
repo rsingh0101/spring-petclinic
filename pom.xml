@@ -13,6 +13,9 @@
   <name>petclinic</name>
 
   <properties>
+    <sonar.host.url> http://3.87.83.57:9000</sonar.host.url>
+    <sonar.projectKey>petclinic</sonar.projectKey>
+    <sonar.login> sqp_e627de67cb90e5c92a64937372d0bc0b2d4023c5</sonar.login>
 
     <!-- Generic properties -->
     <java.version>1.8</java.version>
